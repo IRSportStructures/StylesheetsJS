@@ -1,0 +1,21 @@
+#page-content-wrapper{margin-top:100px;} #header-wrap {
+		position: fixed;
+	} @media screen and (max-width: 635px) {
+		#page-content-wrapper{margin-top:60px;} 
+	}
+.center {margin: auto;
+		width: 100%;
+		padding: 10px;}
+
+.css-button {
+		background-color: #464EB8;
+		border: none;
+		color: white;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+
+		border-radius: 5px;
+		padding: 8px;
+	}
